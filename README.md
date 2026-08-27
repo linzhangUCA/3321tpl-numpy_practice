@@ -1,8 +1,8 @@
-# Numpy Basic
+# Numpy Practice
 
 ## Python Environment Setup Guide
 
-It is recommended to manage your Python environments using [uv](https://docs.astral.sh/uv/)
+You can manage your Python environments using [uv](https://docs.astral.sh/uv/)
 
 > Refer to the official installation [guide](https://docs.astral.sh/uv/getting-started/installation/)
 
@@ -19,5 +19,5 @@ uv sync
 - Option 2: install with pip
 
 ```console
-pip install ipykernel pillow
+pip install ipykernel numpy pillow
 ```
